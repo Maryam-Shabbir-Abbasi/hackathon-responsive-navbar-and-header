@@ -1,0 +1,37 @@
+
+.body{
+    background: linear-gradient(90deg, #FFE259 0%, #FFA751 100%);
+}
+.logo{
+    align-items: center;
+}
+.navopt{
+    align-items: center;
+
+}
+.button{
+    background: linear-gradient(90deg, #FFE259 0%, #FFA751 100%);
+    color: white !important;
+    margin-top: 2px;
+}
+.para{
+font-size: 20px;
+font-weight: 400;
+line-height: 28px;
+text-align: left;
+margin-top: 2px !important;
+
+}
+.title{
+    font-size:50px;
+}
+.bgg{
+    background: linear-gradient(90deg, #FFF0BD 0%, #FFFFFF 100%);
+}
+.icons{
+    align-items: center;
+    margin-top: 1px;
+}
+.btn2{
+    margin-top: 2px !important;
+}
